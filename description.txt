@@ -1,0 +1,2 @@
+este programa calcula a média do aluno com base em suas 3 avaliações.
+Retornando se ele está aprovado ou reprovado.
