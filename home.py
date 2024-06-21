@@ -17,7 +17,7 @@ def calcular_media_e_resultado(aluno):
         return 0.0, "Reprovado"
 
     media = sum(aluno) / len(aluno)
-    if media >= 6.0:
+    if media >= 7.0:
         resultado = "Aprovado"
     else:
         resultado = "Reprovado"

@@ -1,0 +1,1 @@
+o repositório deve ser atualizado por conta de um erro na lógica. Alterei a média mínima de aprovação para 7 ao invés de 6. Espero que compreenda ;)
